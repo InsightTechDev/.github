@@ -83,7 +83,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Aktif_Projeler-10+-success?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Aktif_Projeler-3+-success?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Stack-Full_Stack-blue?style=flat-square&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/Uptime-99.9%25-green?style=flat-square&logo=statuspage" />
   
