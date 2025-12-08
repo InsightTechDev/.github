@@ -4,20 +4,22 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=220&section=header&text=InsightTech&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="InsightTech Banner" />
   </a>
 
-  <h3>Software, Engineering & Product</h3>
+  <h3>InsightTech Development Organization</h3>
   <p>
     Profesyonel web çözümleri, kurumsal yazılım mimarileri ve dijital dönüşüm projeleri.
   </p>
+  
+  <p>📍 Türkiye</p>
 
   <p>
     <a href="https://www.insighttech.com.tr/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-www.insighttech.com.tr-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Website-insighttech.com.tr-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
-    <a href="https://www.linkedin.com/company/insighttech-tr" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-InsightTech-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/company/insighttech-informatics/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-InsightTech_Informatics-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:info@insighttech.com.tr">
-      <img src="https://img.shields.io/badge/Email-Bize_Ulaşın-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:info@insighttech.com">
+      <img src="https://img.shields.io/badge/Email-info@insighttech.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -51,16 +53,14 @@
   <h3>📊 GitHub Aktiviteleri</h3>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=InsightTechDev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Stats" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsightTechDev&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=InsightTechDev&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Stats" />
   </p>
   
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=InsightTechDev&theme=radical&hide_border=true" alt="Streak" />
+  <p><i>Gizlilik politikamız gereği proje kodlarımız kapalı (Private) tutulmaktadır.</i></p>
 </div>
 
 <br>
 
 <div align="center">
-  <p>© 2025 InsightTech. All rights reserved.</p>
+  <p>© 2025 InsightTech Development Organization. All rights reserved.</p>
 </div>
