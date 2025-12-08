@@ -33,29 +33,47 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="120">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
         <br><b>C#</b>
       </td>
-      <td align="center" width="120">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" />
         <br><b>.NET Core</b>
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
-        <br><b>React</b>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django" />
+        <br><b>Django</b>
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TS" />
-        <br><b>TypeScript</b>
-      </td>
-      <td align="center" width="120">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
         <br><b>PostgreSQL</b>
       </td>
-      <td align="center" width="120">
+      <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
         <br><b>Docker</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+        <br><b>React</b>
+      </td>
+       <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+        <br><b>TypeScript</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+        <br><b>JavaScript</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+        <br><b>HTML5</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+        <br><b>CSS3</b>
       </td>
     </tr>
   </table>
@@ -65,8 +83,8 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Aktif_Projeler-7+-success?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Kod_Kalitesi-A++-blue?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Aktif_Projeler-10+-success?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Stack-Full_Stack-blue?style=flat-square&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/Uptime-99.9%25-green?style=flat-square&logo=statuspage" />
   
   <br><br>
