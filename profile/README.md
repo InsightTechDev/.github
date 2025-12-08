@@ -1,66 +1,83 @@
 <div align="center">
 
-  <a href="https://www.insighttech.com.tr/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=220&section=header&text=InsightTech&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="InsightTech Banner" />
-  </a>
+  <h1 style="font-size: 3rem; color: #003366; margin-bottom: 0;">InsightTech</h1>
+  <h3 style="margin-top: 0; font-weight: normal;">Development Organization</h3>
 
-  <h3>InsightTech Development Organization</h3>
-  <p>
-    Profesyonel web çözümleri, kurumsal yazılım mimarileri ve dijital dönüşüm projeleri.
+  <p style="font-size: 1.1rem; max-width: 600px;">
+    <b>Profesyonel web çözümleri, yüksek ölçekli mimariler ve dijital dönüşüm.</b><br>
+    Veri odaklı yaklaşımımızla işletmeleri geleceğe taşıyoruz.
   </p>
   
-  <p>📍 Türkiye</p>
+  <p>📍 Türkiye • 🏢 Manisa Teknokent</p>
 
   <p>
     <a href="https://www.insighttech.com.tr/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-insighttech.com.tr-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Website-Ziyaret_Et-003366?style=for-the-badge&logo=google-chrome&logoColor=white" height="30" />
     </a>
+    &nbsp;
     <a href="https://www.linkedin.com/company/insighttech-informatics/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-InsightTech_Informatics-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Takip_Et-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
     </a>
+    &nbsp;
     <a href="mailto:info@insighttech.com">
-      <img src="https://img.shields.io/badge/Email-info@insighttech.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-İletişime_Geç-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=InsightTechDev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
 </div>
 
 <br>
 
-<div align="center">______________________________________________________________________</div>
-<br>
+<h3 align="center">🛠️ Teknoloji Mimarimiz</h3>
 
 <div align="center">
-
-  ### 🛠️ Tech Stack & Araçlar
-
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+        <br><b>C#</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" />
+        <br><b>.NET Core</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+        <br><b>React</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TS" />
+        <br><b>TypeScript</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+        <br><b>PostgreSQL</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+        <br><b>Docker</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
+<br>
 
 <div align="center">
-  <h3>📊 GitHub Aktiviteleri</h3>
+  <img src="https://img.shields.io/badge/Aktif_Projeler-7+-success?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Kod_Kalitesi-A++-blue?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Uptime-99.9%25-green?style=flat-square&logo=statuspage" />
   
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=InsightTechDev&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Stats" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=InsightTechDev&label=Sayfa%20Görüntüleme&color=003366&style=flat-square" alt="Views" />
+</div>
+
+<br>
+
+<div align="center">
+  <p style="color: #666; font-size: 0.8rem;">
+    © 2025 InsightTech Development Organization. All rights reserved.<br>
+    <i>Gizlilik politikamız gereği ticari proje kodları (Private) repolarda tutulmaktadır.</i>
   </p>
-  
-  <p><i>Gizlilik politikamız gereği proje kodlarımız kapalı (Private) tutulmaktadır.</i></p>
-</div>
-
-<br>
-
-<div align="center">
-  <p>© 2025 InsightTech Development Organization. All rights reserved.</p>
 </div>
