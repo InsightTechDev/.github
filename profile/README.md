@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://insighttech.com.tr/static/assets/images/logo/logowtext-removebg-preview.776c7e4929a2.png" height="70" alt="InsightTech Logo" />
+<img src="[https://insighttech.com.tr/static/assets/images/logo/logowtext-removebg-preview.776c7e4929a2.png](https://insighttech.com.tr/static/assets/images/logo/darklogo-removebg-preview.79567253e364.png)" height="70" alt="InsightTech Logo" />
 
 <br>
 <br>
