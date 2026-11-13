@@ -37,7 +37,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Ar--Ge_Merkezi-Manisa_Teknokent-1E293B?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Standartlar-ALCOA%2B_%7C_KVKK_Uyumlu-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Standartlar-KVKK_Uyumlu-0F766E?style=flat-square" />
   &nbsp;
   <img src="https://img.shields.io/badge/Portföy-20+_Aktif_Dijital_Ürün-2563EB?style=flat-square" />
 </p>
